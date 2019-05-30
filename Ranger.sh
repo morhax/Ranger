@@ -1,7 +1,6 @@
 #!/bin/bash
 #Simple but Effective :D Happy Hacking !!
 #By Charafeddine
-#Email: cnassiri@dataprotect.ma
 echo "Checking Live Hosts...." 
 echo "Results will be saved in output.txt"
 printf "%s\n"
